@@ -6,7 +6,6 @@
   author={Chiang, Ting-Rui and Yu, Xinyan Velocity and Robinson, Joshua and Liu, Ollie and Lee, Isabelle and Yogatama, Dani},
   journal={arXiv preprint arXiv:2311.09615},
   year={2023},
-  abstract="Augmenting a language model (LM) with k-nearest neighbors (kNN) retrieval on its training data alone can decrease its perplexity, though the underlying reasons for this remains elusive. In this work, we first rule out one previously posited possibility -- the "softmax bottleneck." We further identify the MLP hurdle phenomenon, where the final MLP layer in LMs may impede LM optimization early on. We explore memorization and generalization in language models with two new datasets, where advanced model like GPT-3.5-turbo find generalizing to irrelevant information in the training data challenging. However, incorporating kNN retrieval to vanilla GPT-2 117M can consistently improve performance in this setting.",
 }
 
 @article{kong2023interpretable,
@@ -14,7 +13,6 @@
   author={Kong, Xianghao and Liu, Ollie and Li, Han and Yogatama, Dani and Steeg, Greg Ver},
   journal={arXiv preprint arXiv:2310.07972},
   year={2023},
-  abstract="Denoising diffusion models enable conditional generation and density modeling of complex relationships like images and text. However, the nature of the learned relationships is opaque making it difficult to understand precisely what relationships between words and parts of an image are captured, or to predict the effect of an intervention. We illuminate the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition. Exact expressions for mutual information and conditional mutual information can be written in terms of the denoising model. Furthermore, pointwise estimates can be easily estimated as well, allowing us to ask questions about the relationships between specific images and captions. Decomposing information even further to understand which variables in a high-dimensional space carry information is a long-standing problem. For diffusion models, we show that a natural non-negative decomposition of mutual information emerges, allowing us to quantify informative relationships between words and pixels in an image. We exploit these new relations to measure the compositional understanding of diffusion models, to do unsupervised localization of objects in images, and to measure effects when selectively editing images through prompt interventions.",
 }
 
 @inproceedings{hanna2023how,
@@ -23,7 +21,6 @@
     booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
     year={2023},
     url={https://openreview.net/forum?id=p4PckNQR8k},
-    abstract="Pre-trained language models can be surprisingly adept at tasks they were not explicitly trained on, but how they implement these capabilities is poorly understood. In this paper, we investigate the basic mathematical abilities often acquired by pre-trained language models. Concretely, we use mechanistic interpretability techniques to explain the (limited) mathematical abilities of GPT-2 small. As a case study, we examine its ability to take in sentences such as "The war lasted from the year 1732 to the year 17", and predict valid two-digit end years (years > 32). We first identify a circuit, a small subset of GPT-2 small's computational graph that computes this task's output. Then, we explain the role of each circuit component, showing that GPT-2 small's final multi-layer perceptrons boost the probability of end years greater than the start year. Finally, we find related tasks that activate our circuit. Our results suggest that GPT-2 small computes greater-than using a complex but general mechanism that activates across diverse contexts.",
 }
 
 @inproceedings{khalighinejad-etal-2023-approximating,
@@ -42,5 +39,4 @@
     url="https://aclanthology.org/2023.findings-emnlp.934",
     doi="10.18653/v1/2023.findings-emnlp.934",
     pages="14016--14030",
-    abstract="We investigate the ability of transformer models to approximate the CKY algorithm, using them to directly predict a sentence{'}s parse and thus avoid the CKY algorithm{'}s cubic dependence on sentence length. We find that on standard constituency parsing benchmarks this approach achieves competitive or better performance than comparable parsers that make use of CKY, while being faster. We also evaluate the viability of this approach for parsing under \textit{random} PCFGs. Here we find that performance declines as the grammar becomes more ambiguous, suggesting that the transformer is not fully capturing the CKY computation. However, we also find that incorporating additional inductive bias is helpful, and we propose a novel approach that makes use of gradients with respect to chart representations in predicting the parse, in analogy with the CKY algorithm being a subgradient of a partition function variant with respect to the chart.",
 }`
