@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will present two papers [1](https://arxiv.org/abs/2305.00586)[2](https://arxiv.org/abs/2305.02386) at [SocalNLP 2023](https://socalnlp.github.io/symp23/index.html). See you in UCLA!
+I will present two papers on [mechanistic interpretability](https://arxiv.org/abs/2305.00586) and [interpretable diffusion](https://arxiv.org/abs/2305.02386) at [SocalNLP 2023](https://socalnlp.github.io/symp23/index.html). See you in UCLA!

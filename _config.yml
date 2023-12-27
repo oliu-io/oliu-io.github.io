@@ -73,8 +73,8 @@ x_username: coulispi # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: oliu # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+scholar_userid: 4rriqlQAAAAJ # your Google Scholar ID
+semanticscholar_id: 2065919693 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -179,7 +179,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
