@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-11-17 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will present two papers [1](https://arxiv.org/abs/2305.00586)[2](https://arxiv.org/abs/2305.02386) at [SocalNLP 2023](https://socalnlp.github.io/symp23/index.html). See you in UCLA!
