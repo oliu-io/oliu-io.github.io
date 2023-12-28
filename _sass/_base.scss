@@ -60,6 +60,12 @@ img {
   max-width: 90vw;
 }
 
+figure.profile,
+img {
+  max-width: 90vw;
+  margin-bottom: 0%;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
