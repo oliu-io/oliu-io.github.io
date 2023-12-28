@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ollie
 middle_name: Z.
 last_name: Liu
-email: 
+email: zliu2898@usc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). My current research interests lie in (multi-modal) foundation models, including reasoning, interpretability, decision making, and applications in sciences. I often seek insights from statistics and optimization.
 footer_text: >
@@ -97,7 +97,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: doodleisnotadoodle # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
