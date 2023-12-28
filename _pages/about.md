@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). Here are my [CV](ollie-collie.github.io/assets/pdf/oliu_cv.pdf) and [Google Scholar](https://scholar.google.com/citations?user=4rriqlQAAAAJ&hl=en) profile.
+I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/).
 
 My current research interests lie in (multi-modal) foundation models, including reasoning, interpretability, decision making, and applications in sciences. I often seek insights from statistics and optimization.
 
