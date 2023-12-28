@@ -1,11 +1,11 @@
 "NeurIPS":
   url: https://nips.cc/
-  color: "#FFA351"
+  color: "#7C7646"
 
 "EMNLP":
   url: https://sigdat.org/
-  color: "#00539C"
+  color: "#677E75"
 
 "Preprint":
   url: https://arxiv.org/
-  color: "#B31B1B"
+  color: "#8F3D00"
