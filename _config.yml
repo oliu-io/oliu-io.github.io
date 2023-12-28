@@ -86,7 +86,7 @@ research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
-cv_link: https://ollie-collie.github.io/ollie-collie.github.io/assets/pdf/oliu_cv.pdf
+cv_link: assets/pdf/oliu_cv.pdf
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
