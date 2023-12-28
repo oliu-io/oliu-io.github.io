@@ -24,3 +24,5 @@ I’m a second-year Ph.D student in Computer Science at University of Southern C
 My current research interests lie in (multi-modal) foundation models, including reasoning, interpretability, decision making, and applications in sciences. I often seek insights from statistics and optimization.
 
 Before USC, I was a researcher in continuous optimization with [Prof. Jorge Nocedal](https://jnocedal.github.io/) at Northwestern University. Even before that, I did my B.S+M.S at Carnegie Mellon University, majoring in [machine learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html).
+
+I love spending time with my border collie pup [Doodle](https://www.instagram.com/doodleisnotadoodle/)! He lives with my family in the beautiful State of Washington. 

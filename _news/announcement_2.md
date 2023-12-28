@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending [NeurIPS 2023](https://nips.cc/) in NOLA. Let’s meet up!
+Flying over to NOLA to attend [NeurIPS 2023](https://nips.cc/)---let’s meet up! [Michael](https://hannamw.github.io/) and I will be presenting our work on [mechanistic interpretability](https://arxiv.org/abs/2305.00586) of decoder language models for mathematical reasoning tasks.
