@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zliu2898 at usc</p>
-    <p>Salvatori Hall 329</p>
-    <p>Los Angeles, CA, 90089</p>
 
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
