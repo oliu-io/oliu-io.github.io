@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: zliu2898 at usc, [[CV]](ollie-collie.github.io/assets/pdf/oliu_cv.pdf), [[Scholar]](https://scholar.google.com/citations?user=4rriqlQAAAAJ&hl=en)
+subtitle:
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>zliu2898 at usc</p>
     <p>Salvatori Hall 329</p>
     <p>941 Bloom Walk</p>
     <p>Los Angeles, CA, 90089</p>
@@ -18,6 +19,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+[[CV]](ollie-collie.github.io/assets/pdf/oliu_cv.pdf), [[Scholar]](https://scholar.google.com/citations?user=4rriqlQAAAAJ&hl=en)
 
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/).
 
