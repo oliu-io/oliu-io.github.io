@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: zliu2898 at usc, [[CV]](ollie-collie.github.io/assets/pdf/oliu_cv.pdf), [[Scholar]](https://scholar.google.com/citations?user=4rriqlQAAAAJ&hl=en)
 
 profile:
   align: right
