@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ollie-collie.github.io/sitemap.xml
+Sitemap: https://oliu-io.github.io/sitemap.xml
