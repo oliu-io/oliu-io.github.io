@@ -740,8 +740,8 @@ footer.sticky-bottom {
           margin-left: 0;
 
           &:hover {
-            color: var(--my-hover-color);
-            border-color: var(--my-hover-color);
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
           }
         }
       }
