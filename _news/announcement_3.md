@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Interpretable Diffusion via Information Decomposition](https://openreview.net/forum?id=X6tNkN6ate) has been accepted for poster presentation at ICLR 2024! First time traveling to Vienna ✈️
+Our paper [Interpretable Diffusion via Information Decomposition](https://openreview.net/forum?id=X6tNkN6ate) has been accepted for poster presentation at [ICLR 2024](https://iclr.cc/)! First time traveling to Vienna ✈️
