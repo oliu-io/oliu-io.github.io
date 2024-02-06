@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint available! We introduce [DeLLMa](https://arxiv.org/abs/2402.02392)🤔, a large-language model based, principled implementation for decision making under uncertainty.
+New preprint available! We introduce [DeLLMa](https://arxiv.org/abs/2402.02392)🤔, a large-language model based framework for making rational decisions under uncertainty.
