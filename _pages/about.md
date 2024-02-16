@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). My friends call me Oliver.
+I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). In life, my friends call me Oliver 🫒
 
 My current research interests lie in (multi-modal) foundation models, including reasoning, interpretability, decision making, and applications in sciences. I often seek insights from statistics and optimization.
 
