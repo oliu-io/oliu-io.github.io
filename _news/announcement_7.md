@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk about [DeLLMa](https://dellma.github.io/) at the [https://www.isi.edu/research-groups-nlg/nlg-seminars/](Information Science Institute NLG Seminar) on Arpil 18. Details TK ✌️
+I will give a talk about [DeLLMa](https://dellma.github.io/) at the [Information Science Institute NLG Seminar](https://www.isi.edu/research-groups-nlg/nlg-seminars/) on Arpil 18. Details TK ✌️
