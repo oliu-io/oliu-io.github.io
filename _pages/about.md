@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). In life, my friends call me Oliver 🫒
 
-I'm passionate about developing multimodal foundation models that accelerate scientific discovery. My current research includes foundation model pre-training, understanding and exploring their capabilities and limitations, and continual training to align them with human desiderata.
+I'm passionate about developing multimodal foundation models that accelerate scientific discovery. Towards this, I study foundation model pre-training, understanding and exploring their capabilities, and continual training to align them with human desiderata.
 
 Before USC, I was a researcher in continuous optimization with [Prof. Jorge Nocedal](https://jnocedal.github.io/) at Northwestern University. Even before that, I did my B.S+M.S at Carnegie Mellon University, majoring in [machine learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html).
 
