@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a [talk](https://www.youtube.com/watch?v=XSTIFr9J0ko) on [DeLLMa](https://dellma.github.io/) at the [Information Science Institute NLG Seminar](https://www.isi.edu/research-groups-nlg/nlg-seminars/) ✌️
+I gave a talk [DeLLMa](https://dellma.github.io/) at the [Information Science Institute NLG Seminar](https://www.isi.edu/research-groups-nlg/nlg-seminars/). Check out the video [here](https://www.youtube.com/watch?v=XSTIFr9J0ko) ✌️
