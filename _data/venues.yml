@@ -16,6 +16,10 @@
   url: https://sigdat.org/
   color: "#677E75"
 
+"EMNLP":
+  url: https://sigdat.org/
+  color: "#796878"
+
 "Preprint":
   url: https://arxiv.org/
   color: "#8F3D00"
