@@ -17,6 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). In life, my friends call me Oliver 🫒
+
 I am interested in multimodal foundation models (FM). My current research foci involve exploring and understanding their potential in facilitating scientific discovery. I am particularly excited about:
 - Designing new architectures and algorithms that are broadly applicable to scientific modalities, such as (meta)genomics, protein, multiphysics, chemistry, and material sciences.
 - Expanding methods in LLM post-training -- such as preference learning and representation learning -- to elicit controllable and interpretable behavior from multimodal scientific FMs.
