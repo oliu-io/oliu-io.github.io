@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+刘卓然 (Liú Zhuó-Rán) • he/him
+
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). In life, my friends call me Oliver 🫒
 
 I am interested in multimodal foundation models (FM). My current research foci involve exploring and understanding their potential in facilitating scientific discovery. I am particularly excited about:
