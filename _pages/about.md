@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/). In life, my friends call me Oliver 🫒
 
 I'm broadly interested in multimodal foundation models. These days, I'm exploring their their potential as agents of complex reasoning and scientific discovery. I'm particularly excited about:
-- Designing and understanding architectures and algorithms that are broadly applicable to scientific modalities, such as (meta)genomics, protein, multiphysics, chemistry, and material sciences.
+- Designing and understanding architectures and algorithms that are broadly applicable to scientific modalities, such as (meta)genomics, protein, physics, chemistry, and material sciences.
 - Developing post-training and inference-time methods that enable FMs to solve complex reasoning and decision making problems.
 
 Before USC, I was a researcher in continuous optimization with [Prof. Jorge Nocedal](https://jnocedal.github.io/) at Northwestern University. Even before that, I did my B.S+M.S at Carnegie Mellon University, majoring in [machine learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html).
