@@ -8,7 +8,7 @@ middle_name:
 last_name: Liu
 email: zliu2898@usc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm a CS PhD student at USC, co-advised by Prof. Dani Yogatama and Prof. Willie Neiswanger. My current research interests are multimodal foundation models and their applications in science.
+  I'm a CS PhD student at USC, co-advised by Prof. Dani Yogatama and Prof. Willie Neiswanger. My current research interests are multimodal foundation models and their applications in sciences.
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
