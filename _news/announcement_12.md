@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Introducing [METAGENE-1](https://arxiv.org/abs/2501.02045)🧬, a 7B parameter metagenomic foundation model capable of pandemic monitoring, pathogen detection, and multi-species genomics. 
+Introducing [METAGENE-1](https://metagene.ai/)🧬, a 7B parameter metagenomic foundation model capable of pandemic monitoring, pathogen detection, and multi-species genomics. 
