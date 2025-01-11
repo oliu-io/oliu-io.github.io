@@ -20,7 +20,7 @@ Oliver IRL • 刘卓然 (Liú Zhuó-Rán) • he/him • me [at] [this-domain-u
 
 I’m a second-year Ph.D student in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/).
 
-I'm broadly interested in multimodal foundation models. These days, I'm exploring their potential as agents of complex reasoning and scientific discovery. I'm particularly excited about:
+I'm interested in multimodal foundation models. These days, I'm exploring their potential as agents of complex reasoning and scientific discovery. I'm particularly excited about:
 - Designing and understanding architectures and algorithms that are applicable to scientific modalities, such as (meta)genomics, protein, physics, chemistry, and material sciences.
 - Developing post-training and inference-time methods that enable FMs to solve complex reasoning and decision making problems.
 
