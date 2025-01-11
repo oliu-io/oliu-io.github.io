@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm visiting the [Polymathic Team](https://polymathic-ai.org/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) to work on foundation models for multi-discplinary sciences.
+Visiting the [Polymathic Team](https://polymathic-ai.org/) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) to work on foundation models for multi-discplinary sciences.
