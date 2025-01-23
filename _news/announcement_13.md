@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that [DeLLMa](https://dellma.github.io/) is accepted to [ICLR 2025](https://iclr.cc/). See you in Singapore🇸🇬
+Excited to share that [DeLLMa](https://dellma.github.io/) has been accepted to [ICLR 2025](https://iclr.cc/). See you in Singapore 🇸🇬!
