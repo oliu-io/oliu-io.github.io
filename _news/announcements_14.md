@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting as a summer intern at the Generative Model Foundations Team at Meta FAIR, working with [Brandon Amos](https://bamos.github.io/).
+Starting as a summer intern at the Generative Model Foundations Team at Meta FAIR, working with [Brandon Amos](https://bamos.github.io/) on reasoning and optimization.
