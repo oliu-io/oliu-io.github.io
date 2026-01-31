@@ -20,7 +20,7 @@ Oliver IRL • 刘卓然 (Liú Zhuó-Rán) • he/him • me [at] [this-domain-u
 
 I'm a final-year Ph.D candidate in Computer Science at University of Southern California, fortunate to be co-advised by [Prof. Dani Yogatama](https://dyogatama.github.io/) and [Prof. Willie Neiswanger](https://willieneis.github.io/).
 
-I work at the intersection of decision-making, generative models, and AI-for-science, with the goal of building modular, auditable foundation models that support reliable reasoning and discovery.
+I work at the intersection of decision-making, generative models, and AI-for-science, with the goal of building modular, auditable foundation models that support reliable reasoning and discovery. I collaborate extensively with the [Polymathic AI Collaboration](https://polymathic-ai.org/) for scaling scientific foundation models.
 
 Before USC, I was a researcher in continuous optimization with [Prof. Jorge Nocedal](https://jnocedal.github.io/) at Northwestern University. Even before that, I did my B.S.+M.S. at Carnegie Mellon University, majoring in [machine learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html).
 
