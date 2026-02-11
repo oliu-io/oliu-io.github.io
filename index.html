@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ollie Liu</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav id="nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-name">Ollie Liu</a>
+      <div class="nav-links">
+        <a href="#publications">Publications</a>
+        <a href="assets/pdf/oliu_cv.pdf" target="_blank">CV</a>
+      </div>
+      <button id="theme-toggle" aria-label="Toggle dark mode">
+        <svg id="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg id="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Hero — populated from content/hero.md -->
+  <header id="hero">
+    <div class="container" id="hero-content"></div>
+  </header>
+
+  <!-- Publications — populated from content/publications.yaml -->
+  <section id="publications" class="section">
+    <div class="container">
+      <h2>Publications</h2>
+      <div class="pub-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="conference">Conference</button>
+        <button class="filter-btn" data-filter="preprint">Preprint</button>
+        <button class="filter-btn" data-filter="featured">Featured</button>
+      </div>
+      <ol class="pub-list" reversed id="publications-content"></ol>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Ollie Liu. Built with plain HTML, CSS, and JS.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+- role: TA
+  course: "Generative Models (Ph.D. Elective)"
+  institution: "University of Southern California · Spring 2025"
+
+- role: TA
+  course: "Machine Learning (Master)"
+  institution: "University of Southern California · Fall 2023"
+
+- role: Co-Instructor
+  course: "Machine Learning (Ph.D. Elective)"
+  institution: "Northwestern University · Fall 2021"
+
+- role: Co-Instructor
+  course: "Mathematical Statistics (Ph.D. Core)"
+  institution: "Northwestern University · Fall 2020"
+
+- role: TA
+  course: "Introduction to Machine Learning (Master)"
+  institution: "Carnegie Mellon University · 2 Semesters"
+
+- role: TA
+  course: "Principles of Computing (Undergraduate)"
+  institution: "Carnegie Mellon University · 4 Semesters"

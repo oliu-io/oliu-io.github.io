@@ -1,0 +1,140 @@
+# ============================================
+# Publications — edit this file to add/update papers
+# Fields: title, authors, type (conference|preprint), venue_short, featured, note, pdf, code, website
+# Use **Name** in authors to bold your name
+# ============================================
+
+# --- Conference Papers ---
+
+- title: "AION-1: Omnimodal Foundation Model for Astronomy"
+  authors: "The Polymathic AI Collaboration, F. Lanusse*, L. H. Parker*, J. Shen*, **Ollie Liu**, T. Hehir, L. Sarra, L. T. Meyer, M. Bowles, S. Wagner-Carena, H. Qu, S. Golkar, A. Bietti, et al."
+  type: conference
+  venue_short: "NeurIPS 2025"
+  featured: true
+  note: "Oral Presentation at the NeurIPS 2025 AI for Science Workshop"
+  pdf: "#"
+  website: "#"
+
+- title: "LLM Unlearning Without Expert Curated Dataset"
+  authors: "X. Zhu, M. Zhang, **Ollie Liu**, R. Jia, W. Neiswanger"
+  type: conference
+  venue_short: "COLM 2025"
+  pdf: "#"
+  website: "#"
+
+- title: "MATVIX: Multimodal Information Extraction from Visually Rich Articles"
+  authors: "G. Khalighinejad, S. Scott, **Ollie Liu**, K. L. Anderson, R. Stureborg, A. Tyagi, B. Dhingra"
+  type: conference
+  venue_short: "NAACL 2025"
+  pdf: "#"
+  website: "#"
+
+- title: "DeLLMa: Decision Making Under Uncertainty with Large Language Models"
+  authors: "**Ollie Liu***, D. Fu*, D. Yogatama, W. Neiswanger"
+  type: conference
+  venue_short: "ICLR 2025"
+  featured: true
+  note: "Spotlight Presentation"
+  pdf: "#"
+  website: "#"
+
+- title: "IsoBench: Benchmarking Multimodal Foundation Models on Isomorphic Representations"
+  authors: "D. Fu*, R. Guo*, G. Khalighinejad*, **Ollie Liu***, B. Dhingra, D. Yogatama, R. Jia, W. Neiswanger"
+  type: conference
+  venue_short: "COLM 2024"
+  pdf: "#"
+  website: "#"
+
+- title: "On Retrieval Augmentation and the Limitations of Language Model Training"
+  authors: "T.-R. Chiang, X. V. Yu, J. Robinson, **Ollie Liu**, I. Lee, D. Yogatama"
+  type: conference
+  venue_short: "NAACL 2024"
+  pdf: "#"
+  code: "#"
+
+- title: "Interpretable Diffusion via Information Decomposition"
+  authors: "X. Kong*, **Ollie Liu***, H. Li, D. Yogatama, G. Ver Steeg"
+  type: conference
+  venue_short: "ICLR 2024"
+  featured: true
+  pdf: "#"
+  code: "#"
+
+- title: "Approximating CKY with Transformers"
+  authors: "G. Khalighinejad, **Ollie Liu**, S. Wiseman"
+  type: conference
+  venue_short: "EMNLP 2023"
+  pdf: "#"
+  code: "#"
+
+- title: "How Does GPT-2 Compute Greater-Than?: Interpreting Mathematical Abilities in a Pre-Trained Language Model"
+  authors: "M. Hanna, **Ollie Liu**, A. Variengien"
+  type: conference
+  venue_short: "NeurIPS 2023"
+  pdf: "#"
+
+# --- Preprints ---
+
+- title: "Universal Spectral Tokenization via Self-Supervised Panchromatic Representation Learning"
+  authors: "The Polymathic AI Collaboration, J. Shen, F. Lanusse, L. H. Parker, **Ollie Liu**, T. Hehir, et al."
+  type: preprint
+  pdf: "#"
+
+- title: "OpenMETAGENE: Large-Scale, Diverse, and Open Data Recipes for Multimodal Metagenomics Models"
+  authors: "S. Wang, **Ollie Liu**, J. Zhang, W. Neiswanger"
+  type: preprint
+  pdf: "#"
+
+- title: "OptThinker: Optimization Reasoning with Large Language Models"
+  authors: "**Ollie Liu**, A. Zharmagambetov, W. Neiswanger, X. Li, B. Amos"
+  type: preprint
+  featured: true
+  pdf: "#"
+  website: "#"
+
+- title: "Advances and Challenges in Foundation Agents"
+  authors: "B. Liu, X. Li, J. Zhang, ..., **Ollie Liu**, ..., C. Wu"
+  type: preprint
+  pdf: "#"
+  website: "#"
+
+- title: "Resa: Transparent Reasoning Models via SAEs"
+  authors: "S. Wang, J. Asilis, O. F. Akgul, E. B. Bilgin, **Ollie Liu**, D. Fu, W. Neiswanger"
+  type: preprint
+  pdf: "#"
+  website: "#"
+
+- title: "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning"
+  authors: "A. Li*, C. L. Wang*, K. Yue*, Z. Cai*, **Ollie Liu***, D. Fu*, P. Guo*, W. B. Zhu*, et al."
+  type: preprint
+  pdf: "#"
+
+- title: "Tina: Tiny Reasoning Models via LoRA"
+  authors: "S. Wang, J. Asilis, O. F. Akgul, E. B. Bilgin, **Ollie Liu**, W. Neiswanger"
+  type: preprint
+  pdf: "#"
+  website: "#"
+
+- title: "Textual Representations Alone Can Steer Multimodal Models"
+  authors: "H. Gan*, D. Fu*, J. Asilis*, **Ollie Liu***, D. Yogatama, V. Sharan, R. Jia, W. Neiswanger"
+  type: preprint
+  pdf: "#"
+  website: "#"
+
+- title: "METAGENE-1: Metagenomic Foundation Model for Pandemic Monitoring"
+  authors: "**Ollie Liu**, S. Jaghouar, J. Hagemann, S. Wang, J. Wiemels, J. Kaufman, W. Neiswanger"
+  type: preprint
+  featured: true
+  pdf: "#"
+  website: "#"
+
+- title: "Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions"
+  authors: "J. Zhang, **Ollie Liu**, T. Yu, J. Hu, W. Neiswanger"
+  type: preprint
+  pdf: "#"
+  website: "#"
+
+- title: "Game-Theoretic LLM: Agent Workflow for Negotiation Games"
+  authors: "W. Hua, **Ollie Liu**, L. Li, A. Amayuelas, J. Chen, L. Jiang, et al."
+  type: preprint
+  pdf: "#"
