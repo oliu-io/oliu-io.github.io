@@ -1,0 +1,29 @@
+- date: "May – Oct 2025"
+  organization: FAIR at Meta
+  role: Research Intern
+  meta: "Collaborators: Brandon Amos, Arman Zharmagambetov, Xian Li"
+  description: Developing algorithms that elicit optimization thinking in large language models.
+
+- date: "Sep – Dec 2024"
+  organization: "The Simons Foundation & Polymathic AI"
+  role: Research Scientist
+  meta: "Collaborators: François Lanusse, Shirley Ho"
+  description: "Developed AION, the first series of multimodal foundation models for observational astronomy, leading post-training efforts and contributing to pre-training and model architecture ablations."
+
+- date: "May – Aug 2024"
+  organization: Microsoft Research
+  role: Research Intern
+  meta: "Collaborators: Corby Rosset"
+  description: "Worked with the AI Frontiers Team and designed a self-improving workflow for post-training large language models from textual feedback, with applications in mathematical reasoning."
+
+- date: "May – Jul 2023"
+  organization: Reka AI
+  role: Research Intern
+  meta: "Collaborators: Qi Liu, Dani Yogatama"
+  description: Implemented training algorithms for reward models, with applications in multimodal data.
+
+- date: "Jan – May 2023"
+  organization: Redwood Research
+  role: Research Resident
+  meta: "Collaborators: The REMIX Research Program"
+  description: Applied path patching to identify reusable subgraphs of language models that implement elementary mathematical operations.
