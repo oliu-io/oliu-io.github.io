@@ -17,6 +17,6 @@ links:
 ---
 <!-- I received my Ph.D in Computer Science at University of Southern California, fortunate to be advised by Professors [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://dyogatama.github.io/). Before that, I received my B.S and M.S at Carnegie Mellon University, majoring in [machine learning](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters). -->
 
-I'm a final-year Ph.D candidate in Computer Science at University of Southern California, fortunate to be advised by Professors [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://dyogatama.github.io/). Before that, I received my B.S and M.S at Carnegie Mellon University, majoring in [machine learning](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters).
+I'm a final-year Ph.D candidate in Computer Science at University of Southern California, fortunate to be advised by Professors [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://dyogatama.github.io/). I received my B.S and M.S in machine learning at Carnegie Mellon University, and interned at the Polymathic AI Collaboration, Meta MSL FAIR, and Microsoft Research during my studies.
 
-I work at the intersection of decision-making, generative models, and AI-for-science, with the goal of building modular, auditable foundation models that support reliable reasoning and discovery. I interned at the Polymathic AI Collaboration, Meta MSL FAIR, and Microsoft Research.
+I work at the intersection of decision-making, generative models, and AI-for-science, with the goal of building modular, auditable foundation models that support reliable reasoning and discovery.
