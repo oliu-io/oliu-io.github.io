@@ -1,6 +1,6 @@
 ---
 name: Ollie Liu
-photo: "assets/img/prof_pic.jpg"
+photo: "assets/img/prof_pic_1.jpg"
 title: "Oliver IRL • 刘卓然 (Liú Zhuó-Rán) • he/him • me@[this-domain-url]"
 # role: "Member of Technical Staff at [Reflection AI](https://reflection.ai/)"
 role: "Research Engineer at the [Polymathic AI Collaboration](https://polymathic-ai.org/)"
