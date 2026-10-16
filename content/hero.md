@@ -1,22 +1,28 @@
 ---
+# HEADLINE — the fields between the two "---" lines fill the top of the page.
+#   name      first line
+#   headline  second line, in grey (markdown links allowed)
+#   aka       small grey text beside your name (optional)
+#   email     plain text at the end of the links row (optional)
+#   photo     path to your photo (optional; delete the line to hide it)
+#   links     shown as a row of links; add, remove, or reorder freely
+#
+# ABOUT — everything below the second "---" is the About section (markdown).
 name: Ollie Liu
-photo: "assets/img/prof_pic_1.jpg"
-title: "Oliver IRL • 刘卓然 (Liú Zhuó-Rán) • he/him • me@[this-domain-url]"
-# role: "Member of Technical Staff at [Reflection AI](https://reflection.ai/)"
-role: "Research Engineer at the [Polymathic AI Collaboration](https://polymathic-ai.org/)"
+headline: "Reinforcement learning at [Reflection AI](https://reflection.ai/)."
+aka: "Oliver IRL · 刘卓然 (Liú Zhuó-Rán) · he/him"
+email: "me@[this-domain-url]"
+photo: "assets/img/prof_pic_2.jpg"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=4rriqlQAAAAJ"
-    style: outline
   - label: GitHub
     url: "https://github.com/oliu-io"
-    style: outline
-  - label: X / Twitter
+  - label: X
     url: "https://x.com/olliezliu"
-    style: outline
+  - label: CV
+    url: "assets/pdf/oliu_cv.pdf"
 ---
-<!-- I received my Ph.D in Computer Science at University of Southern California, fortunate to be advised by Professors [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://dyogatama.github.io/). Before that, I received my B.S and M.S at Carnegie Mellon University, majoring in [machine learning](https://ml.cmu.edu/academics/primary-ms-machine-learning-masters). -->
+I'm building out our high-compute RL system for open models at [Reflection AI](https://reflection.ai/). Before that, I did my Ph.D. in Computer Science at the University of Southern California, advised by [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://willieneis.github.io/), and my B.S. and M.S. in machine learning at Carnegie Mellon. Along the way I spent time at Meta FAIR, Microsoft Research, and the Polymathic AI Collaboration.
 
-I'm a final-year Ph.D candidate in Computer Science at University of Southern California, fortunate to be advised by Professors [Dani Yogatama](https://dyogatama.github.io/) and [Willie Neiswanger](https://dyogatama.github.io/). I received my B.S and M.S in machine learning at Carnegie Mellon University, and interned at the Polymathic AI Collaboration, Meta MSL FAIR, and Microsoft Research during my studies.
-
-I work at the intersection of decision-making, generative models, and AI-for-science, with the goal of building modular, auditable foundation models that support reliable reasoning and discovery.
+My research sits at the intersection of decision-making, generative models, and AI for science, with the goal of building foundation models that reason reliably and support discovery.
